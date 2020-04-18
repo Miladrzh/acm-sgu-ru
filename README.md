@@ -31,6 +31,7 @@ Problem Number | Tag | Other Info
 127 | Implementation
 130 | Combinatorics 
 135 | Combinatorics
+143 | Dynamic Programming, DFS/BFS, Trees, Graphs
 149 | Trees, Graphs, DFS/BFS
 154 | Binary Search, Simple Math 
 175 | Divide and Conquer, Constructive Algorithm
