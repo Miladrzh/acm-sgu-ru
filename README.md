@@ -31,6 +31,7 @@ Problem Number | Tag | Other Info
 127 | Implementation
 130 | Combinatorics 
 135 | Combinatorics
+149 | Trees, Graphs, DFS/BFS
 154 | Binary Search, Simple Math 
 175 | Divide and Conquer, Constructive Algorithm
 180 | Divide and Conquer, Sorting | Favorite problem
@@ -41,7 +42,7 @@ Problem Number | Tag | Other Info
 297 | Implementation
 299 | Bignum, Simple Math
 310 | Bitmask | Favorite Problem
-344 | DFS | 
+344 | DFS/BFS
 358 | Sorting 
 398 | Implementation 
 403 | Implementation
