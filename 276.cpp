@@ -23,13 +23,21 @@ const double eps = 1e-9;
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(0);
-    int n , ans = 0;
-    cin >> n;
-    for (int i = 1 ; i <= n ; i++){
-        if (__gcd(i,n) == 1){
-            ans++;
-        }
+    int s, p;
+    cin >> s >> p;
+    if (p < s)
+        p = 0, s = 0;
+    int late_min = p - s;
+    if (late_min >= 30 * 60) {
+        cout << 4 << endl;
+    } else if (late_min >= 15 * 60) {
+        cout << 3 << endl;
+    } else if (late_min >= 5 * 60) {
+        cout << 2 << endl;
+    } else if (late_min > 0) {
+        cout << 1 << endl;
+    } else {
+        cout << 0 << endl;
     }
-    cout << ans << endl;
     return 0;
 }

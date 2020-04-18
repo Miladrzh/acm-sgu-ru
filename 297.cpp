@@ -23,13 +23,15 @@ const double eps = 1e-9;
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(0);
-    int n , ans = 0;
-    cin >> n;
-    for (int i = 1 ; i <= n ; i++){
-        if (__gcd(i,n) == 1){
-            ans++;
-        }
+    int n, m;
+    cin >> n >> m;
+    int sum = 0;
+    for (int i = 1; i <= m; i++) {
+        int x;
+        cin >> x;
+        sum += x;
     }
-    cout << ans << endl;
+    cout << sum % n << endl;
+
     return 0;
 }
