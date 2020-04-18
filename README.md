@@ -31,8 +31,8 @@ Problem Number | Tag | Other Info
 127 | Implementation
 130 | Combinatorics 
 135 | Combinatorics
-143 | Dynamic Programming, DFS/BFS, Trees, Graphs
-149 | Trees, Graphs, DFS/BFS
+143 | Dynamic Programming, DFS/BFS, Trees
+149 | Trees, DFS/BFS
 154 | Binary Search, Simple Math 
 175 | Divide and Conquer, Constructive Algorithm
 180 | Divide and Conquer, Sorting | Favorite problem
@@ -43,6 +43,7 @@ Problem Number | Tag | Other Info
 297 | Implementation
 299 | Bignum, Simple Math
 310 | Bitmask | Favorite Problem
+321 | Trees, Greedy, DFS/BFS | Favorite Problem
 344 | DFS/BFS
 358 | Sorting 
 398 | Implementation 
