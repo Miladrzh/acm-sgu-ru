@@ -34,6 +34,7 @@ Problem Number | Tag | Other Info
 143 | Dynamic Programming, DFS/BFS, Trees
 149 | Trees, DFS/BFS
 154 | Binary Search, Simple Math 
+160 | Dynamic Programming
 175 | Divide and Conquer, Constructive Algorithm
 180 | Divide and Conquer, Sorting | Favorite problem
 184 | Implementation 
@@ -58,4 +59,4 @@ Problem Number | Tag | Other Info
 
 
 ### Other Collaborators
-I welcome your merge requests. Whether a refactor to existing codes or a new solution. 
+I welcome your pull requests. Whether a refactor to existing codes or a new solution. 
