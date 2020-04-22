@@ -34,11 +34,12 @@ Problem Number | Tag | Other Info
 143 | Dynamic Programming, DFS/BFS, Trees
 149 | Trees, DFS/BFS
 154 | Binary Search, Simple Math 
-160 | Dynamic Programming
+160 | Dynamic Programming | Creating the update path in a dp problem 
 175 | Divide and Conquer, Constructive Algorithm
 180 | Divide and Conquer, Sorting | Favorite problem
 184 | Implementation 
 222 | Combinatorics
+224 | Backtrack, Brute Force
 231 | Sieve of Eratosthenes, Number Theory
 276 | Implementation
 297 | Implementation
@@ -47,6 +48,8 @@ Problem Number | Tag | Other Info
 321 | Trees, Greedy, DFS/BFS | Favorite Problem
 344 | DFS/BFS
 358 | Sorting 
+374 | Bignum, Simple Math
+375 | Binary Problems, Math
 398 | Implementation 
 403 | Implementation
 404 | Simple Math 
