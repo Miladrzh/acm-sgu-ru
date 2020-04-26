@@ -40,6 +40,7 @@ Problem Number | Tag | Other Info
 184 | Implementation 
 222 | Combinatorics
 224 | Backtrack, Brute Force
+226 | BFS
 231 | Sieve of Eratosthenes, Number Theory
 276 | Implementation
 297 | Implementation
