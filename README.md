@@ -55,6 +55,7 @@ Problem Number | Tag | Other Info
 358 | Sorting 
 374 | Bignum, Simple Math
 375 | Binary Problems, Math
+397 | Data Structures, Linked List
 398 | Implementation 
 403 | Implementation
 404 | Simple Math 
