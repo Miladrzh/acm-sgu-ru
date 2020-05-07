@@ -25,13 +25,16 @@ Problem Number | Tag | Other Info
 105 | Simple Math
 112 | Bignum
 113 | Number Theory
+115 | Ad Hoc, Implementation, Calendar
 118 | Simple Math 
 123 | Implementation
 126 | Implementation, Math
 127 | Implementation
 130 | Combinatorics 
+133 | Sweep line, Sorting
 135 | Combinatorics
 143 | Dynamic Programming, DFS/BFS, Trees
+144 | Probabilities, Math
 149 | Trees, DFS/BFS
 154 | Binary Search, Simple Math 
 160 | Dynamic Programming | Creating the update path in a dp problem 
@@ -42,6 +45,7 @@ Problem Number | Tag | Other Info
 224 | Backtrack, Brute Force
 226 | BFS
 231 | Sieve of Eratosthenes, Number Theory
+271 | Data Structures, Linked List | Good Homework for Data Structure Course :) 
 276 | Implementation
 297 | Implementation
 299 | Bignum, Simple Math
