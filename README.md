@@ -25,19 +25,21 @@ Problem Number | Tag | Other Info
 105 | Simple Math
 112 | Bignum
 113 | Number Theory
+114 | Greedy, Sorting
 115 | Ad Hoc, Implementation, Calendar
 118 | Simple Math 
 123 | Implementation
 126 | Implementation, Math
 127 | Implementation
 130 | Combinatorics 
-133 | Sweep line, Sorting
+133 | Sweep line, Sorting, Greedy
 135 | Combinatorics
 143 | Dynamic Programming, DFS/BFS, Trees
 144 | Probabilities, Math
 149 | Trees, DFS/BFS
 154 | Binary Search, Simple Math 
 160 | Dynamic Programming | Creating the update path in a dp problem 
+170 | Greedy
 175 | Divide and Conquer, Constructive Algorithm
 180 | Divide and Conquer, Sorting | Favorite problem
 184 | Implementation 
@@ -49,6 +51,7 @@ Problem Number | Tag | Other Info
 276 | Implementation
 297 | Implementation
 299 | Bignum, Simple Math
+302 | Data Structures, Stack
 310 | Bitmask | Favorite Problem
 321 | Trees, Greedy, DFS/BFS | Favorite Problem
 344 | DFS/BFS
