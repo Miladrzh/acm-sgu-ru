@@ -1,18 +1,20 @@
-#SGU Solutions
+# SGU Solutions
 
 
 ### About
-These are my solutions for [SGU Problems](https://codeforces.com/problemsets/acmsguru). After years in competitive programmings, I found SGU as the one of the best sources for these reasons:
+These are my solutions for [SGU Problems](https://codeforces.com/problemsets/acmsguru). I am trying to make it complete as soon as possible. 
 
-* **Efficiency**: More efficient to learn new ideas since the problems are less repetitive comparing with sources such as Topcoder, CF problemsets.   
-* **Respectable Problemsetters**: The problems are designed and selected by experienced coaches and competitive programmers such as Andrew Stankevich, Mike Mirzayanov, Petr Mitrichev, ...
-* **Comprehensive Ideas**: You can find many ideas in problem which can be hardly found in other sources.
+SGU is the one of the best sources for starting Competitive Programming for these reasons:
+
+* **Efficiency**: More efficient to learn new ideas since the problems are less repetitive comparing with sources such as Topcoder, CF problemset.   
+* **Respectable Problemsetters**: The problems are directly designed and selected by experienced coaches and competitive programmers such as Andrew Stankevich, Mike Mirzayanov, ...
+* **Comprehensive Ideas**: You can find many different ideas in the SGU's problems, which you can hardly found those ideas in other sources.
 * **Classical Ideas**: Many of classical problems and ideas can be found here which are not used in public contests since it may be repetitive for some contestants. Usually these kinds of idea are basis of many solution for other problems.
 * **Ease of Use**: You can easily submit and see the verdict of solution in the great platform of [Codeforces](https://codeforces.com).
 
 I have tried my best to write codes self declarative and clean, but in case you have any problem in understanding a solution, do not hesitate and send an email to miladrzh@gmail.com.
 
-######Please do not copy the solutions. You earn nothing with copying, and also you lose a chance to learn a new idea.                                                           
+###### Please do not copy the solutions. You earn nothing with copying, and also you lose a chance to learn a new idea.                                                           
 
 
 ### Tags
@@ -72,4 +74,4 @@ Problem Number | Tag | Other Info
 
 
 ### Other Collaborators
-I welcome your pull requests. Whether a refactor to existing codes or a new solution. 
+Your pull requests are welcomed. Whether a refactor to existing codes or a new solution. 
