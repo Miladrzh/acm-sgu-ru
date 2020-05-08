@@ -40,6 +40,7 @@ Problem Number | Tag | Other Info
 154 | Binary Search, Simple Math 
 160 | Dynamic Programming | Creating the update path in a dp problem 
 170 | Greedy
+172 | DFS, Graphs
 175 | Divide and Conquer, Constructive Algorithm
 180 | Divide and Conquer, Sorting | Favorite problem
 184 | Implementation 
