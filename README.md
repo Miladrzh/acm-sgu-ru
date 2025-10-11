@@ -36,6 +36,7 @@ Problem Number | Tag | Other Info
 130 | Combinatorics 
 133 | Sweep line, Sorting, Greedy
 135 | Combinatorics
+136 | Geometry, Linear Algebra
 143 | Dynamic Programming, DFS/BFS, Trees
 144 | Probabilities, Math
 149 | Trees, DFS/BFS
